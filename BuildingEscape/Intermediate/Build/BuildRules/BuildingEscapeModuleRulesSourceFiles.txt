@@ -1,0 +1,3 @@
+C:\Users\Cryptix\Documents\GitHub\BuildingEscape\BuildingEscape\Source\BuildingEscape\BuildingEscape.Build.cs
+C:\Users\Cryptix\Documents\GitHub\BuildingEscape\BuildingEscape\Source\BuildingEscape.Target.cs
+C:\Users\Cryptix\Documents\GitHub\BuildingEscape\BuildingEscape\Source\BuildingEscapeEditor.Target.cs
